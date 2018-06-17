@@ -1,2 +1,2 @@
 # furry-waffle
-JUst another repository
+Just another repository
